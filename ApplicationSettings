@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ApplicationSettings>
+  <IntegrateWithOtherApplication>
+    <Password>FgY~RAS~yNPV</Password>
+  </IntegrateWithOtherApplication>
+  <StartDateFiscalYear>4</StartDateFiscalYear>
+  <StartPage>웹폰트적용</StartPage>
+  <UserServicePort>54237</UserServicePort>
+  <WebSitePort>34311</WebSitePort>
+</ApplicationSettings>
