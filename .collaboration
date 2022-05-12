@@ -97,16 +97,7 @@
   },
   {
     "ModuleName": "PCPage/웹폰트적용보기",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "Forguncy-Korea",
-      "Email": "jake.park@grapecity.com"
-    },
-    "LockDateTime": "2022-05-12T20:09:59.7362545+09:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\웹폰트적용보기.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/웹폰트적용하는방법",
